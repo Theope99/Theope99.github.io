@@ -1,0 +1,51 @@
+body{
+    background-color: #855B5B;
+}
+
+*{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:120%;}
+
+.about__text{
+    
+    text-align: center;
+    position: relative
+}
+
+a{
+    color: black;
+}
+
+.gallery__img{
+
+    width: 100%;
+}
+
+.img__Wall{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+.gallery__item{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.border{
+    border-top: 1px solid #000;
+}
+
+.contact__inner{
+    display: flex;
+}
+.contact__column{
+    width: 50%;
+}
+
+.contact__column2{
+    width: 50%;
+    text-align: right;
+
+}
